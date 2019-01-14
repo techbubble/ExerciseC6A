@@ -6,7 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 src/dapp/config.json
 dapp/
-snippets/
+
 
 # Runtime data
 pids
