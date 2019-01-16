@@ -8,7 +8,7 @@
   "repository": "https://github.com/techbubble/blockchain-day1",
   "license": "MIT",
   "scripts": {
-    "test": "truffle test test/ExerciseC6B.js"
+    "test": "truffle test test/ExerciseC6C.js"
   },
   "author": "Nik Kalyani <nik@kalyani.com> https://www.kalyani.com",
   "devDependencies": {
