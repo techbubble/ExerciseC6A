@@ -36,7 +36,7 @@ contract ExerciseC6CApp {
                                 uint256 sales
                             )
                             internal
-                            view
+                            pure
                             returns(uint256)
     {
         if (sales < 100) {
